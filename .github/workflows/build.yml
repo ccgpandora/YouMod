@@ -72,6 +72,7 @@ jobs:
           tag_name: v${{ env.YOUMOD_VERSION }}
           name: v${{ env.YOUMOD_VERSION }} 
           files: |
+             dev.water888.youmod_${{ env.YOUMOD_VERSION }}_iphoneos-arm.deb
              dev.water888.youmod_${{ env.YOUMOD_VERSION }}_iphoneos-arm64.deb
              dev.water888.youmod_${{ env.YOUMOD_VERSION }}_iphoneos-arm64e.deb
           draft: true
