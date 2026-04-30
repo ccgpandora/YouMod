@@ -217,7 +217,7 @@ static NSString *GetCacheSize() { // YTLite - @dayanch96
             BASIC_SWITCH(LOC(@"HIDE_SUBBAR"), LOC(@"HIDE_SUBBAR_DESC"), HideSubbar),
             BASIC_SWITCH(LOC(@"HIDE_MUSIC_PLAYLISTS"), LOC(@"HIDE_MUSIC_PLAYLISTS_DESC"), HideGenMusicShelf),
             BASIC_SWITCH(LOC(@"HIDE_FEED_POST"), LOC(@"HIDE_FEED_POST_DESC"), HideFeedPost),
-            BASIC_SWITCH(LOC(@"HIDE_SHORTS_SHELF"), LOC(@"HIDE_SHORTS_SHELF_DESC"), HideShortsShelf),
+            // BASIC_SWITCH(LOC(@"HIDE_SHORTS_SHELF"), LOC(@"HIDE_SHORTS_SHELF_DESC"), HideShortsShelf),
             BASIC_SWITCH(LOC(@"HIDE_SEARCH_HISTORY"), LOC(@"HIDE_SEARCH_HISTORY_DESC"), HideSearchHis),
             BASIC_SWITCH(LOC(@"HIDE_SUB_BUTTON"), LOC(@"HIDE_SUB_BUTTON_DESC"), HideSubButton),
             BASIC_SWITCH(LOC(@"HIDE_SHOP_BUTTON"), LOC(@"HIDE_SHOP_BUTTON_DESC"), HideShoppingButton),

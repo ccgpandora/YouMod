@@ -59,7 +59,7 @@
 #define HideSubbar @"YouModHideSubbar"
 #define HideGenMusicShelf @"YouModHideGenMusicShelf"
 #define HideFeedPost @"YouModHideFeedPost"
-#define HideShortsShelf @"YouModHideShortsShelf"
+// #define HideShortsShelf @"YouModHideShortsShelf"
 #define HideSearchHis @"YouModHideSearchHistoryAndSuggestions"
 #define HideSubButton @"YouModHideSubscribeButton"
 #define HideShoppingButton @"YouModHideShoppingButton"
